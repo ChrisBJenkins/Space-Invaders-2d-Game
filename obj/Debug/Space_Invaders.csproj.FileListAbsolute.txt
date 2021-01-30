@@ -1,0 +1,12 @@
+C:\Users\cblak\source\repos\Space_Invaders\bin\Debug\Space_Invaders.exe.config
+C:\Users\cblak\source\repos\Space_Invaders\bin\Debug\Space_Invaders.exe
+C:\Users\cblak\source\repos\Space_Invaders\bin\Debug\Space_Invaders.pdb
+C:\Users\cblak\source\repos\Space_Invaders\obj\Debug\Space_Invaders.csprojAssemblyReference.cache
+C:\Users\cblak\source\repos\Space_Invaders\obj\Debug\Space_Invaders.Properties.Resources.resources
+C:\Users\cblak\source\repos\Space_Invaders\obj\Debug\Space_Invaders.csproj.GenerateResource.cache
+C:\Users\cblak\source\repos\Space_Invaders\obj\Debug\Space_Invaders.csproj.CoreCompileInputs.cache
+C:\Users\cblak\source\repos\Space_Invaders\obj\Debug\Space_Invaders.exe
+C:\Users\cblak\source\repos\Space_Invaders\obj\Debug\Space_Invaders.pdb
+C:\Users\cblak\source\repos\Space_Invaders\obj\Debug\Space_Invaders.Space_Invaders.resources
+C:\Users\cblak\source\repos\Space_Invaders\obj\Debug\Interop.WMPLib.dll
+C:\Users\cblak\source\repos\Space_Invaders\obj\Debug\Space_Invaders.csproj.ResolveComReference.cache
